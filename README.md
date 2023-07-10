@@ -1,1 +1,1 @@
-# C154-Dynamic-Entities
+# PRO-C154-Student-Activity
